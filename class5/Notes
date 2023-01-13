@@ -1,0 +1,14 @@
+scanner class:
+help use take the input from keyboard
+logical operators:
+ juts another set of symbols that we can use to combine multiple boolean values. there are logical operators
+ ! &&
+
+ NOT Operators
+    Not is used to negate the boolean values if something is true it will make it false if something is false it will
+    make it true.
+
+Rules that we should fallow:
+1)we can only use byte short int char string in switch case statements
+2)we cant use relational operators in switch case statements are also not allowed
+3) we cant use logical operators

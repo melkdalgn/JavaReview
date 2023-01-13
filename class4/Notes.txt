@@ -1,0 +1,40 @@
+Operators:
+     Operators are different symbols that we can use to perform operations like addition, subtraction we can compare things if we entities are same or not if a number is greater than the other number or not.
+     There are three main types of operators. They are Arithmetic operators, Relational operators and logical operators.
+ Arithmetic operators:
+      we use Arithmetic operators to perform simple math operations. Like additions, subtraction ect.
+      + => Addition
+      - => Subtraction
+      / => Division
+      * => Multiplication
+      % => modules, reminder
+
+  Relational operators.
+     Relational operators are used to compare two quantities or entities. For example if something is bigger than other
+     thing or if two numbers are same or not or if two boolean variables contain same values or not.
+     == => used to check if two variables contain the same value or not if same we get true otherwise we get false.
+     != => used to check if two variables don't contain the same value. We get a true if they are not same.
+     > =>  used to check if one value is greater than other value. We get a true if they are nit the same.
+     < =>  used to check if the value on the left is smaller than the value on right side we will get a tru.
+     >= => if the values on left side is greater than the value on right side or if they are same we will get a true.
+     <= => it opposite of >= and it used to check if something is less than or equal to other thing
+Conditional constructs
+     Used to write conditional code. A piece of code that execute used based on a condition.
+     If condition is true that java execute the code otherwise it skips that code.
+     How to write False conditions:
+         if(conditions){
+         any line of code even other if condition
+
+         if(){
+
+         }
+         }
+     Important Notes:
+         1)For String we use method instead of === sign because it's a non-primitive data type
+         2) We can cmd+opt=l(Mac) ctrl+alt+(windosw) to format our code.
+         3) if we are confused about brackets we can click an opening or closing part to check to other part.
+
+
+
+
+

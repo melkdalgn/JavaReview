@@ -1,0 +1,28 @@
+if (cold || rain { - -> true
+   SOPln (" i will stay at home")
+
+   not - reverse the condition
+
+   boolean boo =!false;
+   sout(boo); // true
+
+   Switch statement-
+
+       switch (variable){
+
+       case value1:
+                   code A;
+                   break:
+      case value2:
+                   code B;
+                   break;
+      default:
+                   code C;
+                   break;
+
+
+   java flow control
+
+   1) java condtional statments
+   2) java loop
+
